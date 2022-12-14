@@ -1,0 +1,26 @@
+{
+  "name": "kayllane",
+  "version": "1.0.0",
+  "description": "",
+  "main": "aula01-mod2-dom (3).js",
+  "dependencies": {
+    "json-server": "^0.17.1",
+    "node-fetch": "^2.6.7",
+    "tr46": "^0.0.3",
+    "webidl-conversions": "^3.0.1",
+    "whatwg-url": "^5.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kayllane29/Teste-do-adote-aqui.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kayllane29/Teste-do-adote-aqui/issues"
+  },
+  "homepage": "https://github.com/kayllane29/Teste-do-adote-aqui#readme"
+}

@@ -1,0 +1,275 @@
+{
+  "alunos": [
+    {
+      "id": 1,
+      "nome": "lucas",
+      "data de nascimento": "29/12/2003",
+      "turma": "2001"
+    },
+    {
+      "nome": "maicon",
+      "data de nascimento": "09/08/2002",
+      "turma": "2011",
+      "id": 2
+    },
+    {
+      "nome": "marina",
+      "data de nascimento": "05/01/2003",
+      "turma": "2015",
+      "id": 3
+    },
+    {
+      "nome": "kauã",
+      "data de nascimento": "04/07/2000",
+      "turma": "2017",
+      "id": 4
+    },
+    {
+      "nome": "viviane",
+      "data de nascimento": "22/11/2002",
+      "turma": "2010",
+      "id": 5
+    },
+    {
+      "nome": "vitor",
+      "data de nascimento": "17/06/2006",
+      "turma": "2019",
+      "id": 6
+    },
+    {
+      "nome": "matheus",
+      "data de nascimento": "03/18/2004",
+      "turma": "2020",
+      "id": 7
+    },
+    {
+      "nome": "silvia",
+      "data de nascimento": "15/05/2003",
+      "turma": "2012",
+      "id": 8
+    },
+    {
+      "nome": "esther",
+      "data de nascimento": "26/09/2002",
+      "turma": "2021",
+      "id": 9
+    },
+    {
+      "nome": "luiza",
+      "data de nascimento": "08/04/2003",
+      "turma": "2014",
+      "id": 10
+    }
+  ],
+  "professores": [
+    {
+      "id": 1,
+      "nome": "sonia",
+      "idade": "45",
+      "disciplina": "matematica"
+    },
+    {
+      "nome": "julia",
+      "idade": "60",
+      "disciplina": "geografia",
+      "id": 2
+    },
+    {
+      "nome": "denise",
+      "disciplina": "portugues",
+      "idade": "35",
+      "id": 3
+    },
+    {
+      "nome": "renato",
+      "disciplina": "quimica",
+      "idade": "55",
+      "id": 4
+    },
+    {
+      "nome": "bernadete",
+      "disciplina": "Ed. fisica",
+      "idade": "47",
+      "id": 5
+    },
+    {
+      "nome": "tereza",
+      "disciplina": "historia",
+      "idade": "58",
+      "id": 6
+    },
+  {
+    "nome": "eduardo",
+    "disciplina": "fisica",
+    "idade": "46",
+    "id": 7
+  },
+  {
+    "nome": "monica",
+    "disciplina": "artes",
+    "idade": "52",
+    "id": 8
+  },
+  {
+    "nome": "claudio",
+    "disciplina": "quimica",
+    "idade": "49",
+    "id": 9
+  },
+  {
+    "nome": "rita",
+    "disciplina": "ingles",
+    "idade": "39",
+    "id": 10
+  },
+  {
+    "nome": "fernando",
+    "disciplina": "biologia",
+    "idade": "62",
+    "id": 11
+  }
+  ],
+  "boletim":[
+    {
+      "nota": "8,0",
+      "frequencia": "75%",
+      "matricula":"1528336547",
+      "aprovação": "SIM",
+      "id":1
+    },
+    {
+      "nota": "6,0",
+      "frequencia": "80%",
+      "matricula":"445552112227",
+      "aprovação": "SIM",
+      "id": 2
+    },
+    {
+      "nota": "6,5",
+      "frequencia": "95%",
+      "matricula":"745152233698",
+      "aprovação": "SIM",
+      "id": 3
+    },
+    {
+      "nota": "7,0",
+      "frequencia": "75%",
+      "matricula":"88521456663",
+      "aprovação": "SIM",
+      "id": 4
+
+    },
+    {
+      "nota": "4,0",
+      "frequencia": "50%",
+      "matricula":"3698521475",
+      "aprovação": "NAO",
+      "id": 5
+    },
+    {
+      "nota": "6,9",
+      "frequencia": "85%",
+      "matricula":"85244126666",
+      "aprovação": "SIM",
+      "id": 6
+    },
+    {
+      "nota": "8,9",
+      "frequencia": "85%",
+      "matricula":"52874125566",
+      "aprovação": "SIM",
+      "id": 7
+    },
+    {
+      "nota": "4,0",
+      "frequencia": "15%",
+      "matricula":"78415296335",
+      "aprovação": "NAO",
+      "id": 8
+    },
+    {
+      "nota": "10,0",
+      "frequencia": "95%",
+      "matricula":"87412545636647",
+      "aprovação": "SIM",
+      "id": 9
+    },
+    {
+      "nota": "6,0",
+      "frequencia": "75%",
+      "matricula":"741258636665",
+      "aprovação": "SIM",
+      "id": 10
+    }
+  ],
+  "salas":[
+    {
+      "numero da sala": "302",
+      "andar da sala": "03°",
+      "tipo": "sala de aula",
+      "id":1
+    },
+    {
+      "numero da sala": "07",
+      "andar da sala": "04°",
+      "tipo": "sala dos professores",
+      "id": 2
+    },
+    {
+      "numero da sala": "303",
+      "andar da sala": "03°",
+      "tipo": "sala de aula",
+      "id": 3
+    },
+    {
+      "numero da sala": "301",
+      "andar da sala": "03°",
+      "tipo": "sala de aula",
+      "id": 4
+    },
+    {
+      "numero da sala": "304",
+      "andar da sala": "03°",
+      "tipo": "sala de aula",
+      "id": 5
+    },
+    {
+      "numero da sala": "201",
+      "andar da sala": "02°",
+      "tipo": "sala de aula",
+      "id": 6
+    },
+    {
+      "numero da sala": "202",
+      "andar da sala": "02°",
+      "tipo": "sala de aula",
+      "id": 7
+    },
+    {
+      "numero da sala": "203",
+      "andar da sala": "02°",
+      "tipo": "sala de aula",
+      "id": 8
+    },
+    {
+      "numero da sala": "204",
+      "andar da sala": "02°",
+      "tipo": "sala de aula",
+      "id": 9
+    },
+    {
+      "numero da sala": "205",
+      "andar da sala": "02°",
+      "tipo": "Auditorio",
+      "id": 10
+    },
+    {
+      "numero da sala": "103",
+      "andar da sala": "01°",
+      "tipo": "secretaria",
+"id": 11
+    }
+  ]
+}
+
+
